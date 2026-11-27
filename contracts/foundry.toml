@@ -1,0 +1,12 @@
+[profile.default]
+src = "src"
+test = "test"
+script = "script"
+out = "out"
+cache_path = "cache"
+libs = []
+solc_version = "0.8.28"
+optimizer = true
+optimizer_runs = 2000
+bytecode_hash = "none"
+evm_version = "cancun"

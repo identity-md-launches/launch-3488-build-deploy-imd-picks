@@ -1,0 +1,6 @@
+{
+  "note": "Set address and deployBlock after deploying contracts/src/IMDPicks.sol to Ethereum mainnet (see README). Payments stay closed while address is null.",
+  "chainId": 1,
+  "address": null,
+  "deployBlock": null
+}
